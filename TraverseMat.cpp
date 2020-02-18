@@ -23,7 +23,6 @@ int main()
 
 	imshow("test", img);
 
-	//等等待用户按键
 
 	waitKey(0);
 
